@@ -900,15 +900,6 @@
           "settings": {
             "heading": {
               "label": "Nadpis"
-            },
-            "heading_size": {
-              "options__1": {
-                "label": "Střední"
-              },
-              "options__2": {
-                "label": "Velká"
-              },
-              "label": "Velikost nadpisu"
             }
           }
         },
@@ -1073,18 +1064,6 @@
           "settings": {
             "heading": {
               "label": "Nadpis"
-            },
-            "heading_size": {
-              "options__1": {
-                "label": "Malá"
-              },
-              "options__2": {
-                "label": "Střední"
-              },
-              "options__3": {
-                "label": "Velká"
-              },
-              "label": "Velikost nadpisu"
             }
           }
         },
@@ -2011,18 +1990,6 @@
           "settings": {
             "heading": {
               "label": "Nadpis"
-            },
-            "heading_size": {
-              "options__1": {
-                "label": "Malá"
-              },
-              "options__2": {
-                "label": "Střední"
-              },
-              "label": "Velikost nadpisu",
-              "options__3": {
-                "label": "Velká"
-              }
             }
           }
         },
@@ -2433,18 +2400,6 @@
             },
             "secondary_style": {
               "label": "Použít styl tlačítka s obrysem"
-            },
-            "heading_size": {
-              "label": "Velikost nadpisu",
-              "options__1": {
-                "label": "Malá"
-              },
-              "options__2": {
-                "label": "Střední"
-              },
-              "options__3": {
-                "label": "Velká"
-              }
             },
             "box_align": {
               "label": "Pozice obsahu na počítači",

@@ -900,15 +900,6 @@
           "settings": {
             "heading": {
               "label": "Opschrift"
-            },
-            "heading_size": {
-              "options__1": {
-                "label": "Gemiddeld"
-              },
-              "options__2": {
-                "label": "Groot"
-              },
-              "label": "Grootte hoofdtekst"
             }
           }
         },
@@ -1073,18 +1064,6 @@
           "settings": {
             "heading": {
               "label": "Opschrift"
-            },
-            "heading_size": {
-              "options__1": {
-                "label": "Klein"
-              },
-              "options__2": {
-                "label": "Gemiddeld"
-              },
-              "options__3": {
-                "label": "Groot"
-              },
-              "label": "Grootte koptekst"
             }
           }
         },
@@ -2011,18 +1990,6 @@
           "settings": {
             "heading": {
               "label": "Opschrift"
-            },
-            "heading_size": {
-              "options__1": {
-                "label": "Klein"
-              },
-              "options__2": {
-                "label": "Medium"
-              },
-              "label": "Grootte kop",
-              "options__3": {
-                "label": "Groot"
-              }
             }
           }
         },
@@ -2433,18 +2400,6 @@
             },
             "secondary_style": {
               "label": "Gebruik de knopstijl Omlijnen"
-            },
-            "heading_size": {
-              "label": "Grootte kop",
-              "options__1": {
-                "label": "Klein"
-              },
-              "options__2": {
-                "label": "Gemiddeld"
-              },
-              "options__3": {
-                "label": "Groot"
-              }
             },
             "box_align": {
               "label": "Positie van content op desktop",

@@ -900,15 +900,6 @@
           "settings": {
             "heading": {
               "label": "Titolo"
-            },
-            "heading_size": {
-              "options__1": {
-                "label": "Medio"
-              },
-              "options__2": {
-                "label": "Grande"
-              },
-              "label": "Dimensione del titolo"
             }
           }
         },
@@ -1073,18 +1064,6 @@
           "settings": {
             "heading": {
               "label": "Titolo"
-            },
-            "heading_size": {
-              "options__1": {
-                "label": "Piccola"
-              },
-              "options__2": {
-                "label": "Media"
-              },
-              "options__3": {
-                "label": "Grande"
-              },
-              "label": "Dimensione del titolo"
             }
           }
         },
@@ -2011,18 +1990,6 @@
           "settings": {
             "heading": {
               "label": "Titolo"
-            },
-            "heading_size": {
-              "options__1": {
-                "label": "Piccola"
-              },
-              "options__2": {
-                "label": "Media"
-              },
-              "label": "Dimensione titolo",
-              "options__3": {
-                "label": "Grande"
-              }
             }
           }
         },
@@ -2433,18 +2400,6 @@
             },
             "secondary_style": {
               "label": "Utilizza stile contorno pulsante"
-            },
-            "heading_size": {
-              "label": "Dimensione del titolo",
-              "options__1": {
-                "label": "Piccola"
-              },
-              "options__2": {
-                "label": "Media"
-              },
-              "options__3": {
-                "label": "Grande"
-              }
             },
             "box_align": {
               "label": "Posizione contenuto su desktop",

@@ -899,15 +899,6 @@
           "settings": {
             "heading": {
               "label": "見出し"
-            },
-            "heading_size": {
-              "options__1": {
-                "label": "中"
-              },
-              "options__2": {
-                "label": "大"
-              },
-              "label": "見出しのサイズ"
             }
           },
           "name": "見出し"
@@ -1072,18 +1063,6 @@
           "settings": {
             "heading": {
               "label": "見出し"
-            },
-            "heading_size": {
-              "options__1": {
-                "label": "小"
-              },
-              "options__2": {
-                "label": "中"
-              },
-              "options__3": {
-                "label": "大"
-              },
-              "label": "見出しのサイズ"
             }
           },
           "name": "見出し"
@@ -2010,18 +1989,6 @@
           "settings": {
             "heading": {
               "label": "見出し"
-            },
-            "heading_size": {
-              "options__1": {
-                "label": "小"
-              },
-              "options__2": {
-                "label": "中"
-              },
-              "label": "見出しのサイズ",
-              "options__3": {
-                "label": "大"
-              }
             }
           },
           "name": "見出し"
@@ -2433,18 +2400,6 @@
             },
             "secondary_style": {
               "label": "アウトラインボタンのスタイルを使用する"
-            },
-            "heading_size": {
-              "label": "見出しのサイズ",
-              "options__1": {
-                "label": "小"
-              },
-              "options__2": {
-                "label": "中"
-              },
-              "options__3": {
-                "label": "大"
-              }
             },
             "box_align": {
               "label": "デスクトップのコンテンツ位置",

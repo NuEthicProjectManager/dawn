@@ -900,15 +900,6 @@
           "settings": {
             "heading": {
               "label": "Overskrift"
-            },
-            "heading_size": {
-              "options__1": {
-                "label": "Middels"
-              },
-              "options__2": {
-                "label": "Stor"
-              },
-              "label": "Overskriftsstørrelse"
             }
           }
         },
@@ -1073,18 +1064,6 @@
           "settings": {
             "heading": {
               "label": "Overskrift"
-            },
-            "heading_size": {
-              "options__1": {
-                "label": "Liten"
-              },
-              "options__2": {
-                "label": "Middels"
-              },
-              "options__3": {
-                "label": "Stor"
-              },
-              "label": "Overskriftsstørrelse"
             }
           }
         },
@@ -2011,18 +1990,6 @@
           "settings": {
             "heading": {
               "label": "Overskrift"
-            },
-            "heading_size": {
-              "options__1": {
-                "label": "Liten"
-              },
-              "options__2": {
-                "label": "Middels"
-              },
-              "label": "Overskriftsstørrelse",
-              "options__3": {
-                "label": "Stor"
-              }
             }
           }
         },
@@ -2433,18 +2400,6 @@
             },
             "secondary_style": {
               "label": "Bruk knappestil med omriss"
-            },
-            "heading_size": {
-              "label": "Overskriftsstørrelse",
-              "options__1": {
-                "label": "Liten"
-              },
-              "options__2": {
-                "label": "Middels"
-              },
-              "options__3": {
-                "label": "Stor"
-              }
             },
             "box_align": {
               "label": "Innholdsplassering på datamaskin",
