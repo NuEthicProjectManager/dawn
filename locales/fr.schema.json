@@ -612,6 +612,10 @@
         },
         "columns_desktop": {
           "label": "Nombre de colonnes sur ordinateur"
+        },
+        "enable_quick_buy": {
+          "label": "Activer le bouton d'ajout rapide",
+          "info": "Optimal avec un type de panier pop-up ou à tiroir."
         }
       },
       "presets": {
@@ -1328,6 +1332,10 @@
         },
         "columns_desktop": {
           "label": "Nombre de colonnes sur ordinateur"
+        },
+        "enable_quick_buy": {
+          "label": "Activer le bouton d'ajout rapide",
+          "info": "Optimal avec un type de panier pop-up ou à tiroir."
         }
       }
     },

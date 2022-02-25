@@ -612,6 +612,10 @@
         },
         "columns_desktop": {
           "label": "Liczba kolumn na komputerze"
+        },
+        "enable_quick_buy": {
+          "label": "Włącz przycisk szybkiego dodawania",
+          "info": "Optymalny dla wózków w wyskakującym okienku lub wysuwanych."
         }
       },
       "presets": {
@@ -1328,6 +1332,10 @@
         },
         "columns_desktop": {
           "label": "Liczba kolumn na komputerze"
+        },
+        "enable_quick_buy": {
+          "label": "Włącz przycisk szybkiego dodawania",
+          "info": "Optymalny dla wózków w wyskakującym okienku lub wysuwanych."
         }
       }
     },

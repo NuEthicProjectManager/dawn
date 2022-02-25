@@ -612,6 +612,10 @@
         },
         "columns_desktop": {
           "label": "Número de colunas no desktop"
+        },
+        "enable_quick_buy": {
+          "label": "Habilitar botão para adicionar rapidamente",
+          "info": "Ideal para o tipo de carrinho deslizante ou pop-up."
         }
       },
       "presets": {
@@ -1328,6 +1332,10 @@
         },
         "columns_desktop": {
           "label": "Número de colunas no desktop"
+        },
+        "enable_quick_buy": {
+          "label": "Habilitar botão para adicionar rapidamente",
+          "info": "Ideal para o tipo de carrinho deslizante ou pop-up."
         }
       }
     },
